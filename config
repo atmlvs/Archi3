@@ -711,7 +711,7 @@ new_float normal
 
 # AZERTY KEYBOARD
 # Change this if you use qwerty
-exec setxkbmap be
+#exec setxkbmap be
 
 
 ###################       UNCLUTTER      ##############################
@@ -1030,7 +1030,7 @@ exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
 exec pamac-tray
 
 # bluetooth
-exec blueberry-tray
+#exec blueberry-tray
 #exec --no-startup-id blueman-applet
 
 # network
