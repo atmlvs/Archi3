@@ -17,10 +17,10 @@ wget "https://git.samba.org/samba.git/?p=samba.git;a=blob_plain;f=examples/smb.c
 sudo cp /tmp/smb.conf /etc/samba/smb.conf
 echo "change the default log file position to where can be accessed. then press Enter."
 read input
-sudo systemctl enable smbd.service
-sudo systemctl start smbd.service
-sudo systemctl enable nmbd.service
-sudo systemctl start nmbd.service
+sudo systemctl enable smb.service
+sudo systemctl start smb.service
+sudo systemctl enable nmb.service
+sudo systemctl start nmb.service
 ##Change your username here
 sudo smbpasswd -a ykzheng
 
