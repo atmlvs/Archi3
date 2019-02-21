@@ -12,7 +12,7 @@ set -e
 ##################################################################################################################
 
 
-git clone https://github.com/apache/thrift.git ~/.config/i3
+git clone https://github.com/atmlvs/Archi3.git ~/.config/i3
 
 echo "################################################################"
 echo "#########       personal settings installed     ################"
