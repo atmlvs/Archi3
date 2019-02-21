@@ -67,7 +67,7 @@ sh install-neofetch-v1.sh
 
 # Spotify
 
-sh install-spotify-v1.sh
+#sh install-spotify-v1.sh
 
 ###############################################################################################
 
@@ -97,7 +97,7 @@ sh install-sublime-text-v1.sh
 
 # zsh
 
-#sh install-zsh-v1.sh
+sh install-zsh-v1.sh
 
 ###############################################################################################
 
