@@ -97,7 +97,7 @@ sh install-sublime-text-v1.sh
 
 # zsh
 
-sh install-zsh-v1.sh
+#sh install-zsh-v1.sh
 
 ###############################################################################################
 
